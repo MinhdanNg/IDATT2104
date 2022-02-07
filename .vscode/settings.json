@@ -1,0 +1,10 @@
+{
+  "code-runner.executorMap": {
+    "cpp": "g++ $fullFileName && ./a.out"
+  },
+  "files.associations": {
+    "mutex": "cpp",
+    "thread": "cpp",
+    "functional": "cpp"
+  }
+}
